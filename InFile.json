@@ -1,0 +1,7 @@
+{
+  "country": "Russia",
+  "city": [
+    { "title": "Москва", "people": 12506468, "area": 2561 },
+    { "title": "Челябинск", "people": 1202371, "area": 530 }
+  ]
+}
